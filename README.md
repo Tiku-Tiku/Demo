@@ -2,5 +2,5 @@
 
 Change is inevitable.
 Learning can sometimes be difficult.
-Hacking for Developers going on now.
+This is bound to cause trouble.
 I hope this isn't much of a problem.
