@@ -1,4 +1,4 @@
-## Learning Git is a good option
+## My Website
 
 Change is inevitable.
 Learning can sometimes be difficult.
